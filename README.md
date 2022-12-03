@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive Rating Component by Earthyy](...)
+- Live Site URL: [Interactive Rating Component by Earthyy](https://earthyy-interactive-rating-component.netlify.app/)
 
 ## My process
 
